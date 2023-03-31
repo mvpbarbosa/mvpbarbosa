@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing since January 17th 2022<br>📚 I'm currently learning Web Development<br>🎯 Goals: Create a social media website<br>🎲 Fun fact: I don't like to study, but I love to learn more about programming</p>
+<p align="left">✨ Developing since January 17th 2022<br>📚 I'm currently learning Web Development<br>🎯 Goals: Create a social media website<br>🎲 Fun fact: I don't like to study, but I love to study hard about programming</p>
 
 ###
 
